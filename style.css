@@ -23,6 +23,7 @@ nav ul, .main-info-section, .work-category{
     text-decoration: none;
     color: #6fcecb;
     font-weight: bold;
+    
 }
 
 body{
@@ -133,8 +134,11 @@ span .m-left{
 }
 
 .profile .image img{
-    width: 450px;
-    margin-top: 50px;
+    width: 650px;
+    /* margin-top: 50px; */
+    /* margin: 6rem; */
+
+    /* float: left 20px; */
 }
 
 #about{
@@ -161,9 +165,9 @@ span .m-left{
     z-index: 1;
 }
 
-a .about-me-info p{
+.about-me-info p{
     font-size: 1.3rem;
-    color: #bebebe;
+    color: #949393;
 }
 
 .about-me-info p:nth-child(2), .about-me-info p:last-child{
@@ -243,13 +247,13 @@ div[class^='bar-']{
 
 .work-category button{
     text-transform: capitalize;
-    border: 3px solid #ed5565;
+    border: 3px solid #48cfad;
     padding: 15px 30px;
     border-radius: 50px;
-    color: #ed5565;
+    color: #48cfad;
     font-size: 1.1rem;
     letter-spacing: 1px;
-    background-color: #252627;
+    background-color: #fffff;
     outline: none;
     cursor: pointer;
 }
@@ -285,7 +289,7 @@ div.hideCategory{
 }
 
 .showCategory{
-    display: block;
+    display:flow-root;
 }
 
 .contact{
