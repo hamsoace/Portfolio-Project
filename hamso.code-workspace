@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../mama-mboga-group"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Pure JS"
+	}
+}
