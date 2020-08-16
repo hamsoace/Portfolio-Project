@@ -38,7 +38,8 @@ header{
 }
 
 .navbar{
-    background-color: #181818;
+    background-color: #f0eeee;
+
 }
 
 header h1, header a, .text p, .about h1, .skills h1, .work h1, .contact h1{
@@ -78,7 +79,7 @@ a{
 }
 
 span:hover{
-    color: #e274ab;
+    color: #6fcecb;
     transition: all 0.5s;
 }
 
@@ -132,6 +133,7 @@ span .m-left{
 .text a:hover::before{
     height: 100%;
 }
+
 
 .profile .image img{
     width: 650px;
