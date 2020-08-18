@@ -36,7 +36,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 - HTML
 - CSS
-- Bootstrap
+- JavaScript
 
 ## [License](https://hamsoace.github.io/Portfolio-Project/blob/master/LICENSE.md)
 

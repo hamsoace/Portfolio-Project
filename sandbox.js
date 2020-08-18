@@ -31,7 +31,7 @@ const scene = new ScrollMagic.Scene({
 .addTo(controller)
 
 const showRequiredCategory = event =>{
-    const getId = event.id
+    const getId = event.target.id
     const links = document.querySelectorAll('.work-category button')
     for(i=0; i<links.length; i++){
         if(links[i].hasAttribute('class')){
