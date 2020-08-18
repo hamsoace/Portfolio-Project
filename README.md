@@ -38,7 +38,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - CSS
 - JavaScript
 
-## [License](https://hamsoace.github.io/Portfolio-Project/blob/master/LICENSE.md)
+## [License](https://hamsoace.github.io/Portfolio-Project/LICENSE.md)
 
 MIT © [Hamisi Andale](https://hamsoace.github.io/Portfolio-Project/)
 
