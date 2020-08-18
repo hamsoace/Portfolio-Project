@@ -65,6 +65,10 @@ a{
     height: calc(100vh - 81.6px);
 }
 
+.contact{
+    border-radius: 10px;
+}
+
 .text{
     margin-top: 120px;
 }
@@ -406,8 +410,9 @@ form input, form textarea{
 
 form input:last-child{
     width: 150px;
-    background-color: #ed5565;
+    background-color: #6fcecb;
     border: none;
+    border-radius: 10px;
     cursor: pointer;
 }
 
