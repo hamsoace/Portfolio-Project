@@ -1,4 +1,4 @@
-# ![My-portfolio](https://hamsoace.github.io/Portfolio-Project/)
+# ![My-portfolio](https://hamsoace.github.io/Portfolio-Project/images/portfolio.png)
 # portfolio
 <table>
 <tr>
